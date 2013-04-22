@@ -1,0 +1,4 @@
+MemberName
+==========
+
+ReSharper MemberNameAttribute annotation
