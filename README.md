@@ -1,4 +1,5 @@
-# MemberName
+MemberName
+------------
 
 **MemberName** is a ReSharper plugin. 
 Provides additional annotation attributes
@@ -63,4 +64,12 @@ and the corresponding `BuilderAttribute` with the `TypeNameAttribute` usages:
     public string BusinessClassName { get; set;}
   }
 ```
+
+Installation
+------------
+Visual Studio 2010 or Visual Studio 2012 is required.  
+[ReSharper 7.1.x](http://www.jetbrains.com/resharper/) must be installed.
+There are no installer yet. Just the binary version of MemberName from [here](https://dl.dropboxusercontent.com/u/10938305/MemberName.dll) into ReSharper's plugins directory.  
+Note that the software is currently in pre-alpha phase. [Open an issue](https://github.com/vilinski/MemberName/issues) if it eats your wife, pets and children, or if you encounter any other problems.
 Contributors are welcome.
+
